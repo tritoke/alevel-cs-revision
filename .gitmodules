@@ -1,0 +1,3 @@
+[submodule "examplealgorithms/sorting/sort"]
+	path = examplealgorithms/sorting/sort
+	url = https://github.com/swenson/sort.git
